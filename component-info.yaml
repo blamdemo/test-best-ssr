@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-react-ssr
+  description: test-ssr-thing
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guest
